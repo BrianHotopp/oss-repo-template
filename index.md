@@ -9,3 +9,5 @@ graduating junior, club volleyball player, programmer
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
+
+[Lab 2](https://github.com/BrianHotopp/lab2part1)
