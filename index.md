@@ -11,3 +11,5 @@ graduating junior, club volleyball player, programmer
 [Lab 1](labs/lab-01/report.md)
 
 [Lab 2](https://github.com/BrianHotopp/lab2part1)
+
+[Lab 3](https://github.com/BrianHotopp/oss-repo-template/blob/master/labs/lab-03/lab03.md)
