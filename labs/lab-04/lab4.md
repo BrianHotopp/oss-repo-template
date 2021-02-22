@@ -33,6 +33,7 @@ This work is licensed under a
    
 
 8.   Take 5 projects from [Observatory](http://rcos.io/projects) or [past RCOS Projects](https://rcos.io/projects/past) and create a table for which project has which license.
+
    | Project      | License   | 
    | ------------ | --------- | 
    | Organizer    | MIT       | 
