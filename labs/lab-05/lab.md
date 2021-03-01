@@ -2,6 +2,8 @@
 
 # Lab 05
 
+### Part 1
+
 **Steps 1 and 2 (cmake)**
 
 Code:
@@ -321,6 +323,8 @@ install(FILES MathFunctions.h DESTINATION include)
 Screenshots:
 
 ![image-20210301160723167](image-20210301160723167.png)
+
+### Part 2
 
 Makefile:
 
